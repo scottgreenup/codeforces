@@ -1,6 +1,8 @@
 # Codeforces Solutions
 
-These are my solutions for the Codeforces problems. These are all done in python so far, but I will be also doing these in C++.
+NOTE: PLEASE ATTEMPT PROBLEMS YOURSELF BEFORE COPYING MINE :) Please just be fair about it.
+
+These are my solutions for the Codeforces problems.
 
  * The website can be found [here](http://codeforces.com/) at [http://codeforces.com/](http://codeforces.com/)
  * The problem set can found [here](http://codeforces.com/problemset) at [http://codeforces.com/problemset](http://codeforces.com/problemset)
